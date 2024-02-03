@@ -22,5 +22,10 @@ http://localhost:3000/comments
 http://localhost:3000/profile
 ```
 
+### DEPLOY
+```sh
+$ flyctl deploy
+```
+
 ### FROM
 - https://www.npmjs.com/package/json-server
